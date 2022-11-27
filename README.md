@@ -1,4 +1,13 @@
-# Deployed@: (https://arjun-sanity-blog.vercel.app/)
+## Deployed @
+https://arjun-sanity-blog.vercel.app/
+
+
+## Project Highlights
+
+TypeScript
+Next.js
+Tailwind CSS
+Santy.io (headless CMS)
 
 # Tech stack used: TypeScript + Next.js + Tailwind CSS + Santy.io (headless CMS)
 
